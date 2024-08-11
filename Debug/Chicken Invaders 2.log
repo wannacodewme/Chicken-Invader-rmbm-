@@ -1,0 +1,3 @@
+﻿  GameManagement.cpp
+C:\Users\PC - P406\Desktop\Chicken Invaders\GameManagement.cpp(727,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chicken Invaders 2.vcxproj -> C:\Users\PC - P406\Desktop\Chicken Invaders\x64\Debug\Chicken Invaders 2.exe
