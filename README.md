@@ -31,26 +31,35 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 ![image](https://github.com/user-attachments/assets/1d6fbcbd-32ab-4fd8-aad5-c3f45a563bca)
 
 # 3. Các thành phần chính trong game: 
- - Phi thuyền: ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644) là vật thể người chơi điều khiển xuyên suốt game.
- - Gà: ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
+- Phi thuyền: là vật thể người chơi điều khiển xuyên suốt game.
 
- - Các loại đạn và cấp độ của từng loại: các loại đạn mà phi thuyền có thể bắn
+   ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644)
+
+- Gà:  kẻ địch cần hạ trong màn chơi đầu.
+  
+   ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
+  
+- Các loại đạn và cấp độ của từng loại: các loại đạn mà phi thuyền có thể bắn
   
   ![image](https://github.com/user-attachments/assets/d24a6b74-772c-4212-9f22-af63585a669d)
+  
+- Khiên bảo vệ: người chơi va chạm hoặc trúng đạn sẽ hồi sinh với tấm khiên chắn mọi vật thể
+
+  ![image](https://github.com/user-attachments/assets/c2d2b72c-da21-4645-8cb8-8c05ff547045)
 
 - Thiên thạch: sẽ có một màn chơi với rất nhiều thiên thạch có kích cỡ khác nhau hướng về phía phi thuyền
   
   ![image](https://github.com/user-attachments/assets/4711f16f-3591-4f9f-b566-573b22e05018)
 
- - Các hộp quà và mẫu phân tử: các hộp quà với màu sắc khác nhau là từng loại đạn khác nhau, mẫu phân tử dùng để tăng cấp đạn hiện tại.
+- Các hộp quà và mẫu phân tử: các hộp quà với màu sắc khác nhau là từng loại đạn khác nhau, mẫu phân tử dùng để tăng cấp đạn hiện tại.
    
    ![image](https://github.com/user-attachments/assets/ca7cb685-bed1-46df-9702-20f966793365)
 
- - Trùm: là một dạng quái mạnh và ta cần bắn hạ
+- Trùm: là một dạng quái mạnh và ta cần bắn hạ
   
  ![image](https://github.com/user-attachments/assets/7641b003-75a4-4f57-82c2-0ff3b9b0aaf6)
  
- - Đạn của trùm và quái thường: vật thể mà người chơi cần né tránh
+- Đạn của trùm và quái thường: vật thể mà người chơi cần né tránh
 
   ![image](https://github.com/user-attachments/assets/d9222bd7-86e4-4023-97ae-26c0be352831)
 
@@ -58,12 +67,16 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
   
   ![image](https://github.com/user-attachments/assets/efd5f6f6-3144-437d-9ccd-b3db632fd10d)
 
+- Bảng điểm: lưu lại kết quả số điểm mà người chơi đạt được
 
+  ![scoreboard](https://github.com/user-attachments/assets/cd57e264-6491-45e3-876e-11b5fae913ed)
 
-    
+- Dơi: xuất hiện ở màn chơi cuối thả đạn vào hướng phi thuyền
+  
+  ![bat](https://github.com/user-attachments/assets/89c07437-d1d7-4f7b-ab61-105eaf7c7a51)
 
+  ![egg_1](https://github.com/user-attachments/assets/e64b0660-9b50-41de-be49-3dbfd054c8f7)
 
- 
 
 # 4. Cách chơi:
 Người chơi sẽ di con trỏ chuột để tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
