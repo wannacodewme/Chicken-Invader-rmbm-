@@ -141,3 +141,14 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
     
   - Text: quản lý việc hiển thị văn bản trên màn hình.
     
+# 6. Nguồn tham khảo:
+- Tham khảo cấu trúc game và cách thức làm theo game bắn máy bay trên kênh youtube của Phát Triển Phần Mềm 123AZ
+  
+  https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
+  
+- Tham khảo trên trang lazyfoo
+  
+  https://lazyfoo.net/tutorials/SDL/
+
+- Hình ảnh, âm thanh lấy từ game gốc Chicken Invaders của InterAction.
+  
