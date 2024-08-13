@@ -37,7 +37,7 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 - Gà:  kẻ địch cần hạ trong màn chơi đầu.
   
-   ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
+   ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) 
   
 - Các loại đạn và cấp độ của từng loại: các loại đạn mà phi thuyền có thể bắn
   
@@ -79,7 +79,7 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 
 # 4. Cách chơi:
-Người chơi sẽ di con trỏ chuột để tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
+Người chơi sẽ click chuột trái để bắn đạn, di con trỏ chuột đến các vị trí vật phẩm rơi ra khi hạ gục quái để thu thập chúng, tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
 
 ![win](https://github.com/user-attachments/assets/da317650-23be-47fd-9b1b-3768713d0702)
 
@@ -87,6 +87,6 @@ còn nếu để 1 trong 2 tình huống đã nêu trên xảy ra tức trúng �
 
 ![image](https://github.com/user-attachments/assets/1562806b-e7be-4eeb-b69b-9bf0fbd83b6d)
 
-
+# 5. Source code:
 
 
