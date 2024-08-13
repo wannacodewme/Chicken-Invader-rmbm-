@@ -23,4 +23,24 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
 
 # 2. Bắt đầu game:
 Chờ một chút rồi click vào dòng chữ "PLAY" để bắt đầu chơi game
+
 ![image](https://github.com/user-attachments/assets/85848aba-93c1-43c1-a133-1240291c9a5d)
+
+Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
+
+![image](https://github.com/user-attachments/assets/1d6fbcbd-32ab-4fd8-aad5-c3f45a563bca)
+
+# 3. Các thành phần trong game: 
+- Phi thuyền: ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644) là vật thể người chơi điều khiển xuyên suốt game.
+- Gà: ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
+- Các loại đạn và cấp độ của từng loại: ![image](https://github.com/user-attachments/assets/0452b9b0-4066-40b6-8846-193b3aff498e) các loại đạn mà phi thuyền có thể bắn
+ 
+
+# 4. Cách chơi:
+Người chơi sẽ di con trỏ chuột để tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
+
+![win](https://github.com/user-attachments/assets/da317650-23be-47fd-9b1b-3768713d0702)
+còn nếu để 1 trong 2 tình huống đã nêu trên xảy ra tức trúng đạn hoặc vật thể 3 lần, người chơi sẽ thua.
+
+
+
