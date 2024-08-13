@@ -30,10 +30,39 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 ![image](https://github.com/user-attachments/assets/1d6fbcbd-32ab-4fd8-aad5-c3f45a563bca)
 
-# 3. Các thành phần trong game: 
-- Phi thuyền: ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644) là vật thể người chơi điều khiển xuyên suốt game.
-- Gà: ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
-- Các loại đạn và cấp độ của từng loại: ![image](https://github.com/user-attachments/assets/0452b9b0-4066-40b6-8846-193b3aff498e) các loại đạn mà phi thuyền có thể bắn
+# 3. Các thành phần chính trong game: 
+ - Phi thuyền: ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644) là vật thể người chơi điều khiển xuyên suốt game.
+ - Gà: ![image](https://github.com/user-attachments/assets/a63e5a69-364e-4bdd-823e-bad1e9408cb5) kẻ địch cần hạ trong màn chơi đầu.
+
+ - Các loại đạn và cấp độ của từng loại: các loại đạn mà phi thuyền có thể bắn
+  
+  ![image](https://github.com/user-attachments/assets/d24a6b74-772c-4212-9f22-af63585a669d)
+
+- Thiên thạch: sẽ có một màn chơi với rất nhiều thiên thạch có kích cỡ khác nhau hướng về phía phi thuyền
+  
+  ![image](https://github.com/user-attachments/assets/4711f16f-3591-4f9f-b566-573b22e05018)
+
+ - Các hộp quà và mẫu phân tử: các hộp quà với màu sắc khác nhau là từng loại đạn khác nhau, mẫu phân tử dùng để tăng cấp đạn hiện tại.
+   
+   ![image](https://github.com/user-attachments/assets/ca7cb685-bed1-46df-9702-20f966793365)
+
+ - Trùm: là một dạng quái mạnh và ta cần bắn hạ
+  
+ ![image](https://github.com/user-attachments/assets/7641b003-75a4-4f57-82c2-0ff3b9b0aaf6)
+ 
+ - Đạn của trùm và quái thường: vật thể mà người chơi cần né tránh
+
+  ![image](https://github.com/user-attachments/assets/d9222bd7-86e4-4023-97ae-26c0be352831)
+
+- Meat: đơn vị tính điểm chính của trò chơi
+  
+  ![image](https://github.com/user-attachments/assets/efd5f6f6-3144-437d-9ccd-b3db632fd10d)
+
+
+
+    
+
+
  
 
 # 4. Cách chơi:
