@@ -12,8 +12,15 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
 
   **Bước 2:** Cài đặt visual studio 2022 và thư viện SDL2 (tham khảo cài đặt thư viện SDL2 theo hướng dẫn trong đường link bên dưới)
   
-  https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php
+ https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvc2019/index.php
   
-  https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/windows/msvc2019/index.php
+  
+ https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/windows/msvc2019/index.php
   
   Lưu ý: Cài đặt theo cả 2 đường link 
+
+**Bước 3:** Giải nén file Zip mới tải về vào một folder tùy ý, sau khi giải nén xong sẽ có 1 file solution (.sln), mở file đó bằng visual studio và chạy game
+
+# 2. Bắt đầu game:
+Chờ một chút rồi click vào dòng chữ "PLAY" để bắt đầu chơi game
+![image](https://github.com/user-attachments/assets/85848aba-93c1-43c1-a133-1240291c9a5d)
