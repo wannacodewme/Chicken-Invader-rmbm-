@@ -53,11 +53,11 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 - Các hộp quà và mẫu phân tử: các hộp quà với màu sắc khác nhau là từng loại đạn khác nhau, mẫu phân tử dùng để tăng cấp đạn hiện tại.
    
-   ![image](https://github.com/user-attachments/assets/ca7cb685-bed1-46df-9702-20f966793365)
+  ![image](https://github.com/user-attachments/assets/ca7cb685-bed1-46df-9702-20f966793365)
 
 - Trùm: là một dạng quái mạnh và ta cần bắn hạ
   
- ![image](https://github.com/user-attachments/assets/7641b003-75a4-4f57-82c2-0ff3b9b0aaf6)
+  ![image](https://github.com/user-attachments/assets/7641b003-75a4-4f57-82c2-0ff3b9b0aaf6)
  
 - Đạn của trùm và quái thường: vật thể mà người chơi cần né tránh
 
@@ -82,7 +82,11 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 Người chơi sẽ di con trỏ chuột để tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
 
 ![win](https://github.com/user-attachments/assets/da317650-23be-47fd-9b1b-3768713d0702)
+
 còn nếu để 1 trong 2 tình huống đã nêu trên xảy ra tức trúng đạn hoặc vật thể 3 lần, người chơi sẽ thua.
+
+![image](https://github.com/user-attachments/assets/1562806b-e7be-4eeb-b69b-9bf0fbd83b6d)
+
 
 
 
