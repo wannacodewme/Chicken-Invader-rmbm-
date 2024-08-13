@@ -87,6 +87,10 @@ còn nếu để 1 trong 2 tình huống đã nêu trên xảy ra tức trúng �
 
 ![image](https://github.com/user-attachments/assets/1562806b-e7be-4eeb-b69b-9bf0fbd83b6d)
 
+Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu game khi mới bắt đầu chạy game
+
+![image](https://github.com/user-attachments/assets/699b8b01-4cec-48ec-b69a-82453717aff4)
+
 # 5. Source code:
 
 
