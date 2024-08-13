@@ -1,3 +1,3 @@
 ﻿  GameManagement.cpp
-F:\air strike\Chicken-Invaders-master\GameManagement.cpp(737,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Chicken Invaders 2.vcxproj -> F:\air strike\Chicken-Invaders-master\x64\Debug\Chicken Invaders 2.exe
+F:\git upload\Chicken-Invader-rmbm-\GameManagement.cpp(736,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chicken Invaders 2.vcxproj -> F:\git upload\Chicken-Invader-rmbm-\x64\Debug\Chicken Invaders 2.exe

@@ -97,6 +97,15 @@ bool GameManagement::Init()
                         printf("SDL_mixer could not initialize!\n");
                         return false;
                     }
+                    Mix_VolumeChunk(g_sound_bullet[0], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_bullet[1], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_bullet[2], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_level_up, MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_chicken_hit[0], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_chicken_hit[1], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_chicken_hit[2], MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_explosion, MIX_MAX_VOLUME / 5);
+                    Mix_VolumeChunk(g_sound_food, MIX_MAX_VOLUME / 5);
                 }
 
                 //Font
