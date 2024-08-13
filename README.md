@@ -93,4 +93,51 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
 
 # 5. Source code:
 
-
+- Header: folder chung của các file header.
+  
+- SDL for VSC: thư viện SDL.
+  
+- Font: font chữ chung cho các ký tự trong game.
+  
+- Image: các hình ảnh dùng trong game.
+  
+- Sound: quản lý các audio chung, âm thanh cho các hành động tương ứng trong game.
+  
+- Các file .cpp:
+  
+  - Asteroid: tạo hiệu ứng chuyển động và xuất hiện ngẫu nhiên của các thiên thạch.
+    
+  - BaseObject: quản lý các đối tượng hình ảnh trong game (tải ảnh, xử lý ảnh, ...).
+    
+  - Bat: điều khiển, quản lý hành vi của dơi trong trò chơi như di chuyển, thả đạn, hiển thị hoạt ảnh.
+    
+  - Boss: điều khiển hành vi của trùm trong game, bao gồm di chuyển, thả trứng, hiển thị hoạt ảnh, và hiển thị thanh máu.
+    
+  - Bullet: quản lý đạn trong game, bao gồm việc tải hình ảnh tương ứng, xử lý di chuyển và trạng thái của viên đạn.
+    
+  - Chicken: quản lý các đối tượng gà trong trò chơi (việc di chuyển, bắn trứng, hiển thị hình ảnh gà...)
+    
+  - CommomFunction: xử lý va chạm và chuyển đổi hình ảnh.
+    
+  - Egg: các thuộc tính cơ bản của quả trứng, bao gồm tốc độ di chuyển và trạng thái di chuyển.
+    
+  - EggBreak: xử lý các hiệu ứng phá vỡ trứng trong trò chơi, thiết lập và hiển thị các khung hình của hiệu ứng.
+    
+  - Explosion: quản lý và hiển thị các hiệu ứng nổ trong trò chơi.
+    
+  - GameManagement: quản lý, điều khiển chung các hành động, đối tượng của game (hình ảnh, âm thanh, font chữ, asteroid, bat, boss, ...)
+    
+  - Gift: quản lý đối tượng quà tặng, lớp này xử lý việc di chuyển, hiển thị và tải hình ảnh của hộp quà tức chức năng chuyển đạn bắn trong game.
+    
+  - Main: khởi tạo và điều hành trò chơi.
+    
+  - MainObject: thiết lập vị trí, kích thước, và các thuộc tính, xử lý các hoạt động của đối tượng chính, bao gồm việc điều khiển, bắn đạn, quản lý cấp độ đạn, ...
+    
+  - Meat: đại diện cho loại đối tượng thịt di chuyển xuống từ trên xuống dưới màn hình, là cơ chế tính điểm của trò chơi khi người chơi ăn vật phẩm này.
+    
+  - Menu: quản lý giao diện menu trong trò chơi.
+    
+  - Shield: cung cấp khả năng hiển thị lá chắn.
+    
+  - Text: quản lý việc hiển thị văn bản trên màn hình.
+    
