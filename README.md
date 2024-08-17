@@ -5,17 +5,20 @@
 # Giới thiệu game: 
 Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể loại Space Shooter. Trong trò chơi người chơi sẽ điều khiển một phi thuyền bắn hạ các đợt gà ngoài hành tinh đang tấn công. Trò chơi có nhiều cấp độ khác nhau, mỗi cấp độ đưa ra những thách thức mới đòi hỏi sự khéo léo của người chơi.
 
-- [1. Cách tải game](#0-cách-tải-game)
+- [1. Cách tải game](#1-cách-tải-game)
     * [a. Cách 1: Bao gồm code và có thể biên dịch.](#a-cách-1-bao-gồm-code-và-có-thể-biên-dịch)
-    * [b. Cách 2: Không bao gồm code.](#a-cách-1-không-bao-gồm-code)
-- [2. Bắt đầu game](#1bắt-đầu-game)
-- [3. Các thành phần chính trong game:](#3các-thành-phần-chính-trong-game)
+    * [b. Cách 2: Không bao gồm code.](#b-cách-2-không-bao-gồm-code)
+- [2. Bắt đầu game](#2-bắt-đầu-game)
+- [3. Các thành phần chính trong game](#3-các-thành-phần-chính-trong-game)
 - [4. Cách chơi](#4-cách-chơi)
 - [5. Source code](#5-source-code)
 - [6. Nguồn tham khảo](#6-nguồn-tham-khảo)
 
 
- # 1. Cách tải game: (bao gồm code và có thể biên dịch)
+ # 1. Cách tải game 
+ 
+ ## a. Cách 1: Bao gồm code và có thể biên dịch:
+ 
   **Bước 1:** Chọn Code -> Download Zip 
   ![image](https://github.com/user-attachments/assets/1cccc36c-4c28-44c8-8cb8-fb0139d3c1ee)
 
@@ -30,7 +33,14 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
 
 **Bước 3:** Giải nén file Zip mới tải về vào một folder tùy ý, sau khi giải nén xong sẽ có 1 file solution (.sln), mở file đó bằng visual studio và chạy game
 
-# 2. Bắt đầu game:
+## b. Cách 2: Không bao gồm code:
+
+ Tải file Release.zip tại đường link: https://github.com/wannacodewme/Chicken-Invader-rmbm-/releases/tag/demo
+ 
+ Khi tải xong giải nén vào 1 folder và click vào file exe để bắt đầu game.
+ 
+# 2. Bắt đầu game
+
 Chờ một chút rồi click vào dòng chữ "PLAY" để bắt đầu chơi game
 
 ![image](https://github.com/user-attachments/assets/85848aba-93c1-43c1-a133-1240291c9a5d)
@@ -39,7 +49,8 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 ![image](https://github.com/user-attachments/assets/1d6fbcbd-32ab-4fd8-aad5-c3f45a563bca)
 
-# 3. Các thành phần chính trong game: 
+# 3. Các thành phần chính trong game
+
 - Phi thuyền: là vật thể người chơi điều khiển xuyên suốt game.
 
    ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644)
@@ -87,7 +98,7 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
   ![egg_1](https://github.com/user-attachments/assets/e64b0660-9b50-41de-be49-3dbfd054c8f7)
 
 
-# 4. Cách chơi:
+# 4. Cách chơi
 Người chơi sẽ click chuột trái để bắn đạn, di con trỏ chuột đến các vị trí vật phẩm rơi ra khi hạ gục quái để thu thập chúng, tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
 
 ![win](https://github.com/user-attachments/assets/da317650-23be-47fd-9b1b-3768713d0702)
@@ -100,7 +111,7 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
 
 ![image](https://github.com/user-attachments/assets/699b8b01-4cec-48ec-b69a-82453717aff4)
 
-# 5. Source code:
+# 5. Source code
 
 - Header: folder chung của các file header.
   
@@ -150,7 +161,7 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
     
   - Text: quản lý việc hiển thị văn bản trên màn hình.
     
-# 6. Nguồn tham khảo:
+# 6. Nguồn tham khảo
 - Tham khảo cấu trúc game và cách thức làm theo game bắn máy bay trên kênh youtube của Phát Triển Phần Mềm 123AZ
   
   https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
