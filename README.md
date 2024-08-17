@@ -1,6 +1,15 @@
 # Chicken Invaders 2 - RMBM - NHT
 
-- Thử nghiệm game:
+# Giới thiệu bản thân:
+
+Họ và tên: Nguyễn Huy Trà
+
+Mã sinh viên: 22025524
+
+Lớp: K67-N-CLC
+
+
+# Thử nghiệm game:
 
 # Giới thiệu game: 
 Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể loại Space Shooter. Trong trò chơi người chơi sẽ điều khiển một phi thuyền bắn hạ các đợt gà ngoài hành tinh đang tấn công. Trò chơi có nhiều cấp độ khác nhau, mỗi cấp độ đưa ra những thách thức mới đòi hỏi sự khéo léo của người chơi.
@@ -171,4 +180,10 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
   https://lazyfoo.net/tutorials/SDL/
 
 - Hình ảnh, âm thanh lấy từ game gốc Chicken Invaders của InterAction.
+
+# 7. Hướng phát triển
+- Thêm chế độ campaign, multiplayer
+- Thêm các loại đạn mới, phi thuyền mới, có thêm các tính năng ảnh hưởng đến gameplay như gọi tiếp viện
+- Tạo nhiều độ khó khác nhau
+- Tối ưu hóa game hơn 
   
