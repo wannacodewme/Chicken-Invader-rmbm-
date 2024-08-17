@@ -30,7 +30,7 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
   Lưu ý: Cài đặt theo cả 2 đường link 
 
 **Bước 3:** Giải nén file Zip mới tải về vào một folder tùy ý, sau khi giải nén xong sẽ có 1 file solution (.sln), mở file đó bằng visual studio và chạy game
-## b. Cách 2: Không baop gồm code:
+## b. Cách 2: Không bao gồm code:
  Tải game tại đường link: https://github.com/wannacodewme/Chicken-Invader-rmbm-/releases/tag/demo
  
  Khi tải xong giải nén vào 1 folder và click vào file exe để bắt đầu game.
@@ -91,7 +91,7 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
   ![egg_1](https://github.com/user-attachments/assets/e64b0660-9b50-41de-be49-3dbfd054c8f7)
 
 
-# 4. Cách chơi:
+# 4. Cách chơi
 Người chơi sẽ click chuột trái để bắn đạn, di con trỏ chuột đến các vị trí vật phẩm rơi ra khi hạ gục quái để thu thập chúng, tránh đạn của đối phương và các vật thể khác bay đến gần phi thuyền, nếu không để trúng đạn của kẻ địch hoặc không va phải các vật thể khác quá 3 lần người chơi sẽ thắng và màn hình hiển thị
 
 ![win](https://github.com/user-attachments/assets/da317650-23be-47fd-9b1b-3768713d0702)
@@ -104,7 +104,7 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
 
 ![image](https://github.com/user-attachments/assets/699b8b01-4cec-48ec-b69a-82453717aff4)
 
-# 5. Source code:
+# 5. Source code
 
 - Header: folder chung của các file header.
   
@@ -154,7 +154,7 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
     
   - Text: quản lý việc hiển thị văn bản trên màn hình.
     
-# 6. Nguồn tham khảo:
+# 6. Nguồn tham khảo
 - Tham khảo cấu trúc game và cách thức làm theo game bắn máy bay trên kênh youtube của Phát Triển Phần Mềm 123AZ
   
   https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
