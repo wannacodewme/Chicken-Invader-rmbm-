@@ -5,6 +5,15 @@
 # Giới thiệu game: 
 Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể loại Space Shooter. Trong trò chơi người chơi sẽ điều khiển một phi thuyền bắn hạ các đợt gà ngoài hành tinh đang tấn công. Trò chơi có nhiều cấp độ khác nhau, mỗi cấp độ đưa ra những thách thức mới đòi hỏi sự khéo léo của người chơi.
 
+- [1. Cách tải game](#0-cách-tải-game)
+    * [a. Cách 1: Bao gồm code và có thể biên dịch.](#a-cách-1-bao-gồm-code-và-có-thể-biên-dịch)
+    * [b. Cách 2: Không bao gồm code.](#a-cách-1-không-bao-gồm-code)
+- [2. Bắt đầu game](#1bắt-đầu-game)
+- [3. Các thành phần chính trong game:](#3các-thành-phần-chính-trong-game)
+- [4. Cách chơi](#4-cách-chơi)
+- [5. Source code](#5-source-code)
+- [6. Nguồn tham khảo](#6-nguồn-tham-khảo)
+
 
  # 1. Cách tải game: (bao gồm code và có thể biên dịch)
   **Bước 1:** Chọn Code -> Download Zip 
