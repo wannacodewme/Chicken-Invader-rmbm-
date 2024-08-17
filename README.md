@@ -1,5 +1,10 @@
 # Chicken Invaders 2 - RMBM - NHT
 
+# Giới thiệu bản thân:
+Họ và tên: Nguyễn Huy Trà
+Mã sinh viên: 22025524
+Lớp: K67-N-CLC
+
 - Thử nghiệm game:
 
 # Giới thiệu game: 
