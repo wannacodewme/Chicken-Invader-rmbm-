@@ -9,7 +9,7 @@ Mã sinh viên: 22025524
 Lớp: K67-N-CLC
 
 
-- Thử nghiệm game:
+# Thử nghiệm game:
 
 # Giới thiệu game: 
 Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể loại Space Shooter. Trong trò chơi người chơi sẽ điều khiển một phi thuyền bắn hạ các đợt gà ngoài hành tinh đang tấn công. Trò chơi có nhiều cấp độ khác nhau, mỗi cấp độ đưa ra những thách thức mới đòi hỏi sự khéo léo của người chơi.
