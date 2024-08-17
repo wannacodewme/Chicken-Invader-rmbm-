@@ -15,7 +15,8 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
 - [6. Nguồn tham khảo](#6-nguồn-tham-khảo)
 
 
- # 1. Cách tải game: (bao gồm code và có thể biên dịch)
+ # 1. Cách tải game: 
+ ## a. Bao gồm code và có thể biên dịch:
   **Bước 1:** Chọn Code -> Download Zip 
   ![image](https://github.com/user-attachments/assets/1cccc36c-4c28-44c8-8cb8-fb0139d3c1ee)
 
@@ -29,7 +30,10 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
   Lưu ý: Cài đặt theo cả 2 đường link 
 
 **Bước 3:** Giải nén file Zip mới tải về vào một folder tùy ý, sau khi giải nén xong sẽ có 1 file solution (.sln), mở file đó bằng visual studio và chạy game
-
+## b. Không baop gồm code:
+ Tải game tại đường link: https://github.com/wannacodewme/Chicken-Invader-rmbm-/releases/tag/demo
+ 
+ Khi tải xong giải nén vào 1 folder và click vào file exe để bắt đầu game.
 # 2. Bắt đầu game:
 Chờ một chút rồi click vào dòng chữ "PLAY" để bắt đầu chơi game
 
