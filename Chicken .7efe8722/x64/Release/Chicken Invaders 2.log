@@ -1,8 +1,8 @@
 ﻿  Asteroid.cpp
-F:\git upload\Chicken-Invader-rmbm-\Asteroid.cpp(1,9): error C1083: Cannot open include file: 'Asteroid.h': No such file or directory
   BaseObject.cpp
-F:\git upload\Chicken-Invader-rmbm-\BaseObject.cpp(1,9): error C1083: Cannot open include file: 'BaseObject.h': No such file or directory
   Bat.cpp
+F:\git upload\Chicken-Invader-rmbm-\Asteroid.cpp(1,9): error C1083: Cannot open include file: 'Asteroid.h': No such file or directory
+F:\git upload\Chicken-Invader-rmbm-\BaseObject.cpp(1,9): error C1083: Cannot open include file: 'BaseObject.h': No such file or directory
 F:\git upload\Chicken-Invader-rmbm-\Bat.cpp(1,9): error C1083: Cannot open include file: 'Bat.h': No such file or directory
   Boss.cpp
 F:\git upload\Chicken-Invader-rmbm-\Boss.cpp(1,9): error C1083: Cannot open include file: 'Boss.h': No such file or directory

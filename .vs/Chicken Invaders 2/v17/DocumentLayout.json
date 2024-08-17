@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|solutionrelative:GameManagement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|F:\\git upload\\Chicken-Invader-rmbm-\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|solutionrelative:Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|F:\\git upload\\Chicken-Invader-rmbm-\\Header\\GameManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|solutionrelative:Header\\GameManagement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|F:\\git upload\\Chicken-Invader-rmbm-\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|solutionrelative:Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EFE8722-3FC1-4E28-A6A8-EB4E4D52FE00}|Chicken Invaders 2.vcxproj|F:\\git upload\\Chicken-Invader-rmbm-\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bat.cpp",
               "DocumentMoniker": "F:\\git upload\\Chicken-Invader-rmbm-\\Bat.cpp",
               "RelativeDocumentMoniker": "Bat.cpp",
@@ -182,20 +182,20 @@
               "RelativeDocumentMoniker": "GameManagement.cpp",
               "ToolTip": "F:\\git upload\\Chicken-Invader-rmbm-\\GameManagement.cpp",
               "RelativeToolTip": "GameManagement.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAF0AAAAwAAAA",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAAAGwAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-24T15:40:12.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameManagement.h",
               "DocumentMoniker": "F:\\git upload\\Chicken-Invader-rmbm-\\Header\\GameManagement.h",
               "RelativeDocumentMoniker": "Header\\GameManagement.h",
               "ToolTip": "F:\\git upload\\Chicken-Invader-rmbm-\\Header\\GameManagement.h",
               "RelativeToolTip": "Header\\GameManagement.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-31T13:33:37.086Z"
             },
