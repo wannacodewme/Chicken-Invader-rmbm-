@@ -180,4 +180,10 @@ Người chơi cũng có thể xem cách chơi tại mục "TUTORIAL" tại menu
   https://lazyfoo.net/tutorials/SDL/
 
 - Hình ảnh, âm thanh lấy từ game gốc Chicken Invaders của InterAction.
+
+# 7. Hướng phát triển
+- Thêm chế độ campaign, multiplayer
+- Thêm các loại đạn mới, phi thuyền mới, có thêm các tính năng ảnh hưởng đến gameplay như gọi tiếp viện
+- Tạo nhiều độ khó khác nhau
+- Tối ưu hóa game hơn 
   
