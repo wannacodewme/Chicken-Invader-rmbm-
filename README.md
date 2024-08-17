@@ -9,13 +9,13 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
     * [a. Cách 1: Bao gồm code và có thể biên dịch.](#a-cách-1-bao-gồm-code-và-có-thể-biên-dịch)
     * [b. Cách 2: Không bao gồm code.](#a-cách-1-không-bao-gồm-code)
 - [2. Bắt đầu game](#1bắt-đầu-game)
-- [3. Các thành phần chính trong game:](#3các-thành-phần-chính-trong-game)
+- [3. Các thành phần chính trong game](#3các-thành-phần-chính-trong-game)
 - [4. Cách chơi](#4-cách-chơi)
 - [5. Source code](#5-source-code)
 - [6. Nguồn tham khảo](#6-nguồn-tham-khảo)
 
 
- # 1. Cách tải game: 
+ # 1. Cách tải game 
  ## a. Cách 1: Bao gồm code và có thể biên dịch:
   **Bước 1:** Chọn Code -> Download Zip 
   ![image](https://github.com/user-attachments/assets/1cccc36c-4c28-44c8-8cb8-fb0139d3c1ee)
@@ -34,7 +34,7 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
  Tải game tại đường link: https://github.com/wannacodewme/Chicken-Invader-rmbm-/releases/tag/demo
  
  Khi tải xong giải nén vào 1 folder và click vào file exe để bắt đầu game.
-# 2. Bắt đầu game:
+# 2. Bắt đầu game
 Chờ một chút rồi click vào dòng chữ "PLAY" để bắt đầu chơi game
 
 ![image](https://github.com/user-attachments/assets/85848aba-93c1-43c1-a133-1240291c9a5d)
@@ -43,7 +43,7 @@ Ngay sau đó sẽ có giao diện bắt đầu trò chơi:
 
 ![image](https://github.com/user-attachments/assets/1d6fbcbd-32ab-4fd8-aad5-c3f45a563bca)
 
-# 3. Các thành phần chính trong game: 
+# 3. Các thành phần chính trong game
 - Phi thuyền: là vật thể người chơi điều khiển xuyên suốt game.
 
    ![ship_sprite](https://github.com/user-attachments/assets/9d497b14-5da0-43d7-be1a-cf699e4bc644)
