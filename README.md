@@ -44,7 +44,7 @@ Chicken Invader 2 là một trò chơi bắn súng không gian thuộc thể lo�
 
 ## b. Cách 2: Không bao gồm code:
 
- Tải file Release.zip tại mục releases phía bên phải màn hình
+ Tải file Release.zip tại mục Releases phía bên phải màn hình
 
 ![image](https://github.com/user-attachments/assets/37d446d6-9f58-42ad-8ea8-cf7ab3edfd79)
  
